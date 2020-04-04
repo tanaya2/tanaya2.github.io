@@ -3,6 +3,9 @@
 ### Project URL
 https://tanaya2.github.io/
 
+### Working GitHub Repository
+Please note that this GitHub repository (tanaya2.github.io) contains all up to date documents. Please visit the weatherapp repository found here: https://github.com/tanaya2/weatherapp.git for working progress.
+
 ### Purpose of Project
 Weather apps are often over-complicated and require users to navigate several menus in order to find the information they require. The purpose of this app was to develop a page where all necessary information was present, from current weather, to hourly weather, to daily weather overviews. The aim of this weather app was to showcase a large range of data in an easy to follow way.
 
