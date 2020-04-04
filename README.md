@@ -1,6 +1,6 @@
 # Rationale - Weather App
 
-###Project URL
+### Project URL
 https://tanaya2.github.io/
 
 ### Purpose of Project
