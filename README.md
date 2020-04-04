@@ -22,7 +22,7 @@ One of the biggest issues with the information displayed within this table and o
 
 The final section of this webpage was a second table displaying the hourly data for the next 48 hours in the forecast. This table is long, hence why it was positioned at the bottom of the page so that users were not required to scroll through all the hourly data to get to the daily data. It was considered to have the table collapse and users expand the table to see hourly data after 12 hours. However, this idea was abandoned as it adds another step required by the user that was unnecessary for a single webpage in this order. The hourly table runs through an icon summary, time, temperature, written summary, feels like temperature, wind and rain chance for every hour over the next 48-hour period. CSS formatting of this table is the same as section two and was developed in a similar way in both JS and HTML files as the former table.
 
-![Markdown Section Three](/images/markdown_sectionthree.png)
+![Markdown Section Three](/images/markdown_sectionfour.png)
 
 ### Other Considerations
 This webpage utilises the Dark Sky API to retrieve weather results and geocode location services from Open Caged Data. Both functions are coded within the JS document and are used with permission from both the services and the user. By using location services and real-time data, this weather app portrays accurate data suited to the users needs. 
